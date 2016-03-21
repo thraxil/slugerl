@@ -1,0 +1,1 @@
+Super simple slugify library for Erlang
