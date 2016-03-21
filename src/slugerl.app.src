@@ -4,5 +4,7 @@
 	{modules, ['slugerl']},
 	{registered, []},
 	{applications, []},
+	{maintainers, ["Anders Pearson"]},
+	{licenses, ["BSD"]},
 	{links, [{"Github", "https://github.com/thraxil/slugerl"}]}
 ]}.
